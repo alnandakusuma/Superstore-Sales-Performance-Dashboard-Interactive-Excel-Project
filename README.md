@@ -14,7 +14,7 @@ An interactive Excel dashboard that analyzes sales, profitability, and order tre
 4. How do results differ by region and customer segment?
 
 ## Dataset
-- **Source:** Sample - Superstore dataset ([link])
+- **Source:** Sample - Superstore dataset
 - **Size:** 9,994 rows, 21 columns, order dates from January 2014 to December 2017
 - **Orders:** 5,009 unique orders (the dataset has one row per order line item)
 - The raw CSV is not included in this repository.
