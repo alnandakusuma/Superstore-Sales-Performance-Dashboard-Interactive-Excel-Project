@@ -132,4 +132,4 @@ Microsoft Excel · Power Query · PivotTables and PivotCharts · Slicers and Tim
 
 ## Author
 **Alnanda**
-[LinkedIn: add your profile link] · [GitHub: add your profile link]
+www.linkedin.com/in/alnandakusuma · https://github.com/alnandakusuma
