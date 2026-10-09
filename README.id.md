@@ -14,7 +14,7 @@ Dashboard Excel interaktif yang menganalisis penjualan, profitabilitas, dan tren
 4. Bagaimana perbedaan hasil menurut wilayah dan segmen pelanggan?
 
 ## Dataset
-- **Sumber:** dataset Sample - Superstore ([tautan])
+- **Sumber:** dataset Sample - Superstore
 - **Ukuran:** 9.994 baris, 21 kolom, tanggal pesanan Januari 2014 sampai Desember 2017
 - **Pesanan:** 5.009 pesanan unik (dataset berisi satu baris per item pesanan)
 - File CSV mentah tidak disertakan di repositori ini.
